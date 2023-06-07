@@ -1,1 +1,3 @@
-# Python_Studying
+# Study
+
+## 1. Python
